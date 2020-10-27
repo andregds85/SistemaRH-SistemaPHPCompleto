@@ -1,0 +1,52 @@
+/* CSS Document */
+fieldset{
+	border: 1px solid #9e9;
+	padding:1em;
+	margin: 1em 0;
+	}
+	legend{ border: 1px solid #9c9;}
+	
+	
+fieldset#dp1 input, select{
+width: 90%;
+}
+fildset#dp2 input, select{ width: 90%;
+}
+
+textarea { width:: 60%; border: 1px solid #090;}
+
+
+fieldset#dp1 , fildset#dp2{
+width: 44%;
+float:left;
+}
+
+
+
+fieldset#fe{clear:both;}
+fieldset#dp2{float:right;}
+div{width: 45%; float:left; }
+
+
+
+/* CSS Document ----------------------------------------------------------------------------------------*/
+
+fieldset#dpp1 input, select{
+width: 90%;
+}
+fildset#dpp2 input, select{ width: 90%;
+}
+
+textarea { width:: 60%; border: 1px solid #090;}
+
+
+fieldset#dpp1 , fildset#dpp2{
+width: 44%;
+float:left;
+}
+
+
+
+fieldset#fee{clear:both;}
+fieldset#dpp1{float:right;}
+div{width: 45%; float:left; }

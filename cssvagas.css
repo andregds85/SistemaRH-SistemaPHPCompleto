@@ -1,0 +1,21 @@
+/* CSS Document */
+
+	.item {
+		font-weight: bold;
+		font-size: 9px;
+		color: #333333;
+		font-family: verdana, arial, helvetica, sans-serif;
+	/*	background-color: #dce2ef; */
+		background-color: #FFCC66
+		text-align: right
+	}
+	
+		.item2 {
+		font-weight: bold;
+		font-size: 12px;
+		color: ffffff;
+		font-family: verdana, arial, helvetica, sans-serif;
+/*		background-color: #dce2ef;*/
+		background-color: #FFCC66
+		text-align: right
+	}

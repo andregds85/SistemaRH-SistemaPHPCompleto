@@ -1,0 +1,10 @@
+.texto      	{font: 13px Verdana; text-decoration: none; color: #000000}
+.texto_peq  	{font: 11px Verdana; text-decoration: none; color: #000000}
+.texto_data 	{font: 11px Verdana; text-decoration: none; color: #FFFFFF}
+.menu       	{font: 12px Verdana; text-decoration: none; color: #000000}
+.links      	{font: normal 12px Verdana;text-transform: none}
+.titulos    	{font: 18px Verdana; font-weight: bold; text-decoration: none; color: #000000}
+.subtitulos 	{font: 12px Verdana; font-weight: bold; text-decoration: none; color: #000000}
+.form_campos	{background-color: #FFFFFF; font: 12px Verdana; border-style: groove}
+.form_botao 	{background-color: #CCCCCC; font: 12px Verdana; border-style: outset}
+a:hover     	{text-decoration: underline}
